@@ -5019,22 +5019,22 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -5078,22 +5078,22 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="176"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="CAMPUS_LAB"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -12551,16 +12551,16 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -12737,16 +12737,16 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="201"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
      

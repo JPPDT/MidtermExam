@@ -1022,8 +1022,8 @@
 </Activity>
 <Activity>
 	<Id>176</Id>
-	<Day>Wednesday</Day>
-	<Hour>10:30-11:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>13:00-13:30</Hour>
 	<Room>CAMPUS_LAB</Room>
 </Activity>
 <Activity>
@@ -1172,9 +1172,9 @@
 </Activity>
 <Activity>
 	<Id>201</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>4f-Rm18-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>2F-Rm6-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>202</Id>
