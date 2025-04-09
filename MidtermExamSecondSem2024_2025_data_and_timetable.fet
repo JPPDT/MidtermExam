@@ -9234,7 +9234,7 @@
 	<Subject>EDUC 197</Subject>
 	<Activity_Tag>Lectures</Activity_Tag>
 	<Duration></Duration>
-	<Number_of_Preferred_Time_Slots>34</Number_of_Preferred_Time_Slots>
+	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Tuesday</Preferred_Day>
 		<Preferred_Hour>07:00-7:30</Preferred_Hour>
@@ -9330,46 +9330,6 @@
 	<Preferred_Time_Slot>
 		<Preferred_Day>Tuesday</Preferred_Day>
 		<Preferred_Hour>18:30-19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>07:00-7:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>07:30-08:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>08:00-08:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>08:30-09:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>09:00-09:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>09:30-10:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>10:00-10:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>10:30-11:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>11:00-11:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Wednesday</Preferred_Day>
-		<Preferred_Hour>11:30-12:00</Preferred_Hour>
 	</Preferred_Time_Slot>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -15169,15 +15129,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>97</Activity_Id>
-	<Preferred_Day>Wednesday</Preferred_Day>
-	<Preferred_Hour>09:00-09:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>98</Activity_Id>
 	<Preferred_Day>Monday</Preferred_Day>
 	<Preferred_Hour>12:30-13:00</Preferred_Hour>
@@ -16414,6 +16365,15 @@
 	<Activity_Id>238</Activity_Id>
 	<Preferred_Day>Monday</Preferred_Day>
 	<Preferred_Hour>07:30-08:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>97</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>16:00-16:30</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24113,14 +24073,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>97</Activity_Id>
-	<Room>3F-Rm13-TNTS</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>98</Activity_Id>
 	<Room>3f-Rm14-ABDMES</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -25218,6 +25170,14 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>238</Activity_Id>
+	<Room>3f-Rm15-ABDMES</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>97</Activity_Id>
 	<Room>3f-Rm15-ABDMES</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>

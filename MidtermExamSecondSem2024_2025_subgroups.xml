@@ -11281,16 +11281,16 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm15-ABDMES"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm15-ABDMES"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm15-ABDMES"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm15-ABDMES"></Room>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -11313,16 +11313,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="97"></Activity><Subject name="EDUC 197"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
      
