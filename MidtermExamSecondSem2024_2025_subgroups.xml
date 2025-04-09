@@ -1277,28 +1277,28 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm7-TNTS"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm7-TNTS"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm7-TNTS"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm7-TNTS"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="127"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -1723,16 +1723,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -1747,16 +1747,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="128"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -2169,16 +2169,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -2205,16 +2205,16 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm11-TNTS"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm11-TNTS"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm11-TNTS"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="129"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 23"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm11-TNTS"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -6183,28 +6183,28 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm13-TNTS"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="130"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3F-Rm15-TNTS"></Room>
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -6641,16 +6641,16 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo 2"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm6-TNTS"></Room>
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -6677,16 +6677,16 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="131"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -7063,16 +7063,16 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm8-TNTS"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -7087,16 +7087,16 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="132"></Activity><Teacher name="Atty. Charmaine A. Gabelo 3"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="2F-Rm9-TNTS"></Room>
     </Hour>
     <Hour name="13:00-13:30">
      

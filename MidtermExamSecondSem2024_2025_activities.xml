@@ -741,38 +741,38 @@
 <Activity>
 	<Id>127</Id>
 	<Day>Saturday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>3F-Rm15-TNTS</Room>
+	<Hour>09:00-09:30</Hour>
+	<Room>2F-Rm7-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>128</Id>
 	<Day>Saturday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Hour>09:00-09:30</Hour>
 	<Room>2F-Rm8-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>129</Id>
 	<Day>Saturday</Day>
-	<Hour>15:00-15:30</Hour>
-	<Room>3F-Rm11-TNTS</Room>
+	<Hour>09:00-09:30</Hour>
+	<Room>2F-Rm9-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>130</Id>
 	<Day>Saturday</Day>
-	<Hour>09:00-09:30</Hour>
-	<Room>3F-Rm13-TNTS</Room>
+	<Hour>11:00-11:30</Hour>
+	<Room>3F-Rm15-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>131</Id>
 	<Day>Saturday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>2F-Rm9-TNTS</Room>
+	<Hour>11:00-11:30</Hour>
+	<Room>2F-Rm6-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>132</Id>
 	<Day>Saturday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>2F-Rm8-TNTS</Room>
+	<Hour>11:00-11:30</Hour>
+	<Room>2F-Rm9-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>133</Id>
