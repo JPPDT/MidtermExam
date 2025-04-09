@@ -1,5 +1,5 @@
 ﻿Soft conflicts of MidtermExamSecondSem2024_2025.fet
-Generated with FET 6.22.1 on 4/9/25 8:16 AM
+Generated with FET 6.22.1 on 4/9/25 10:02 AM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
