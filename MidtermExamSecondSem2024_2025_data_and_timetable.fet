@@ -4991,6 +4991,28 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
+<Activity>
+	<Subject>BADM 22</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSBA 1-2</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>237</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Subject>BADM 22</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSBA 2-3 Ireg</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>238</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
 </Activities_List>
 
 <Buildings_List>
@@ -11738,113 +11760,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher></Teacher>
 	<Students></Students>
-	<Subject>BADM 21</Subject>
-	<Activity_Tag>Lectures</Activity_Tag>
-	<Duration></Duration>
-	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>07:00-7:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>07:30-08:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>08:00-08:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>08:30-09:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>09:00-09:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>09:30-10:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>10:00-10:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>10:30-11:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>11:00-11:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>11:30-12:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>12:00-12:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>12:30-13:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>13:00-13:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>13:30-14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>14:00-14:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>14:30-15:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>15:00-15:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>15:30-16:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>16:00-16:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>16:30-17:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>17:00-17:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>17:30-18:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>18:00-18:30</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Thursday</Preferred_Day>
-		<Preferred_Hour>18:30-19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivitiesPreferredTimeSlots>
-<ConstraintActivitiesPreferredTimeSlots>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher></Teacher>
-	<Students></Students>
 	<Subject>GNED 15</Subject>
 	<Activity_Tag>Lectures</Activity_Tag>
 	<Duration></Duration>
@@ -16481,6 +16396,24 @@
 	<Activity_Id>236</Activity_Id>
 	<Preferred_Day>Thursday</Preferred_Day>
 	<Preferred_Hour>13:30-14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>237</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:30-16:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>238</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>07:30-08:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -25270,6 +25203,22 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>236</Activity_Id>
 	<Room>4f-Rm20-ABDMES</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>237</Activity_Id>
+	<Room>2f-Rm10-ABDMES</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>238</Activity_Id>
+	<Room>3f-Rm15-ABDMES</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
