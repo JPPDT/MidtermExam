@@ -56,21 +56,21 @@
 </Activity>
 <Activity>
 	<Id>13</Id>
-	<Day>Thursday</Day>
-	<Hour>16:30-17:00</Hour>
-	<Room>4f-Rm19-ABDMES</Room>
+	<Day>Saturday</Day>
+	<Hour>07:30-08:00</Hour>
+	<Room>2F-Rm6-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>14</Id>
-	<Day>Thursday</Day>
-	<Hour>15:00-15:30</Hour>
-	<Room>3f-Rm13-ABDMES</Room>
+	<Day>Saturday</Day>
+	<Hour>07:30-08:00</Hour>
+	<Room>2F-Rm7-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>15</Id>
-	<Day>Thursday</Day>
-	<Hour>15:30-16:00</Hour>
-	<Room>3f-Rm14-ABDMES</Room>
+	<Day>Saturday</Day>
+	<Hour>15:00-15:30</Hour>
+	<Room>3F-Rm12-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>16</Id>
@@ -200,21 +200,21 @@
 </Activity>
 <Activity>
 	<Id>37</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
-	<Room>4f-Rm18-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>16:30-17:00</Hour>
+	<Room>2f-Rm6-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>38</Id>
-	<Day>Thursday</Day>
-	<Hour>15:30-16:00</Hour>
-	<Room>3f-Rm12-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>13:30-14:00</Hour>
+	<Room>2f-Rm10-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>39</Id>
-	<Day>Thursday</Day>
+	<Day>Monday</Day>
 	<Hour>17:00-17:30</Hour>
-	<Room>2f-Rm10-ABDMES</Room>
+	<Room>2f-Rm9-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>40</Id>
@@ -632,21 +632,21 @@
 </Activity>
 <Activity>
 	<Id>109</Id>
-	<Day>Thursday</Day>
-	<Hour>14:00-14:30</Hour>
-	<Room>2f-Rm8-ABDMES</Room>
+	<Day>Saturday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>3F-Rm11-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>110</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
-	<Room>3f-Rm12-ABDMES</Room>
+	<Day>Wednesday</Day>
+	<Hour>08:30-09:00</Hour>
+	<Room>2F-Rm8-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>111</Id>
-	<Day>Thursday</Day>
-	<Hour>13:00-13:30</Hour>
-	<Room>3f-Rm15-ABDMES</Room>
+	<Day>Wednesday</Day>
+	<Hour>10:30-11:00</Hour>
+	<Room>3F-Rm11-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>112</Id>
@@ -800,9 +800,9 @@
 </Activity>
 <Activity>
 	<Id>137</Id>
-	<Day>Thursday</Day>
-	<Hour>14:00-14:30</Hour>
-	<Room>2f-Rm9-ABDMES</Room>
+	<Day>Wednesday</Day>
+	<Hour>09:30-10:00</Hour>
+	<Room>3F-Rm13-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>138</Id>
@@ -1046,9 +1046,9 @@
 </Activity>
 <Activity>
 	<Id>180</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
-	<Room>2f-Rm7-ABDMES</Room>
+	<Day>Wednesday</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room>2F-Rm8-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>181</Id>
@@ -1094,33 +1094,33 @@
 </Activity>
 <Activity>
 	<Id>188</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
-	<Room>4f-Rm16-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>08:00-08:30</Hour>
+	<Room>3f-Rm13-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>189</Id>
-	<Day>Thursday</Day>
-	<Hour>18:00-18:30</Hour>
-	<Room>3f-Rm12-ABDMES</Room>
-</Activity>
-<Activity>
-	<Id>190</Id>
-	<Day>Thursday</Day>
-	<Hour>16:00-16:30</Hour>
-	<Room>4f-Rm20-ABDMES</Room>
-</Activity>
-<Activity>
-	<Id>191</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
+	<Day>Monday</Day>
+	<Hour>07:00-7:30</Hour>
 	<Room>4f-Rm19-ABDMES</Room>
 </Activity>
 <Activity>
+	<Id>190</Id>
+	<Day>Monday</Day>
+	<Hour>08:30-09:00</Hour>
+	<Room>3f-Rm12-ABDMES</Room>
+</Activity>
+<Activity>
+	<Id>191</Id>
+	<Day>Monday</Day>
+	<Hour>17:30-18:00</Hour>
+	<Room>2f-Rm8-ABDMES</Room>
+</Activity>
+<Activity>
 	<Id>192</Id>
-	<Day>Thursday</Day>
-	<Hour>18:00-18:30</Hour>
-	<Room>3f-Rm14-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>13:00-13:30</Hour>
+	<Room>3f-Rm13-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>193</Id>
@@ -1340,15 +1340,15 @@
 </Activity>
 <Activity>
 	<Id>229</Id>
-	<Day>Thursday</Day>
-	<Hour>13:00-13:30</Hour>
-	<Room>3f-Rm11-ABDMES</Room>
+	<Day>Wednesday</Day>
+	<Hour>07:30-08:00</Hour>
+	<Room>2F-Rm7-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>230</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
-	<Room>4f-Rm17-ABDMES</Room>
+	<Day>Wednesday</Day>
+	<Hour>08:30-09:00</Hour>
+	<Room>3F-Rm14-TNTS</Room>
 </Activity>
 <Activity>
 	<Id>231</Id>
@@ -1370,15 +1370,15 @@
 </Activity>
 <Activity>
 	<Id>235</Id>
-	<Day>Thursday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>4f-Rm20-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>14:30-15:00</Hour>
+	<Room>3f-Rm11-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>236</Id>
-	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
-	<Room>4f-Rm20-ABDMES</Room>
+	<Day>Tuesday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>3f-Rm12-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>237</Id>
