@@ -24,16 +24,16 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="12:30-13:00">
      
@@ -302,16 +302,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm14-ABDMES"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm14-ABDMES"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm14-ABDMES"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="167"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm14-ABDMES"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
      
@@ -452,16 +452,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm18-ABDMES"></Room>
     </Hour>
     <Hour name="09:30-10:00">
      
@@ -757,16 +757,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm12-ABDMES"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm12-ABDMES"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm12-ABDMES"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="168"></Activity><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm12-ABDMES"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -7270,16 +7270,16 @@
      
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="10"></Activity><Subject name="BADM 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm13-ABDMES"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="10"></Activity><Subject name="BADM 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm13-ABDMES"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="10"></Activity><Subject name="BADM 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm13-ABDMES"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="10"></Activity><Subject name="BADM 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="3f-Rm13-ABDMES"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
      

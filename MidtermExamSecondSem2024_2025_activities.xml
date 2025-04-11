@@ -37,12 +37,6 @@
 	<Room>2F-Rm9-TNTS</Room>
 </Activity>
 <Activity>
-	<Id>10</Id>
-	<Day>Tuesday</Day>
-	<Hour>16:30-17:00</Hour>
-	<Room>3f-Rm13-ABDMES</Room>
-</Activity>
-<Activity>
 	<Id>11</Id>
 	<Day>Monday</Day>
 	<Hour>07:00-7:30</Hour>
@@ -968,15 +962,15 @@
 </Activity>
 <Activity>
 	<Id>167</Id>
-	<Day>Friday</Day>
-	<Hour>07:30-08:00</Hour>
-	<Room>3f-Rm14-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>10:30-11:00</Hour>
+	<Room>4f-Rm19-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>168</Id>
-	<Day>Friday</Day>
-	<Hour>09:00-09:30</Hour>
-	<Room>3f-Rm12-ABDMES</Room>
+	<Day>Monday</Day>
+	<Hour>07:30-08:00</Hour>
+	<Room>4f-Rm18-ABDMES</Room>
 </Activity>
 <Activity>
 	<Id>169</Id>
