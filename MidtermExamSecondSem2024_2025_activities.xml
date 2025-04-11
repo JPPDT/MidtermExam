@@ -1386,4 +1386,10 @@
 	<Hour>07:30-08:00</Hour>
 	<Room>3f-Rm15-ABDMES</Room>
 </Activity>
+<Activity>
+	<Id>239</Id>
+	<Day>Tuesday</Day>
+	<Hour>16:00-16:30</Hour>
+	<Room>4f-Rm19-ABDMES</Room>
+</Activity>
 </Activities_Timetable>

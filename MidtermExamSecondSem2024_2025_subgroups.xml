@@ -577,13 +577,13 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="239"></Activity><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="239"></Activity><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="239"></Activity><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="4f-Rm19-ABDMES"></Room>
     </Hour>
     <Hour name="17:30-18:00">
      
