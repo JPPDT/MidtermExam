@@ -1,0 +1,3701 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="6.22.1">
+
+<Mode>Official</Mode>
+
+<Institution_Name>Cavite State University - Tanza</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>4</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+	<Long_Name></Long_Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+	<Long_Name></Long_Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+	<Long_Name></Long_Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+	<Long_Name></Long_Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>26</Number_of_Hours>
+<Hour>
+	<Name>07:00-7:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>07:30-08:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>08:00-08:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>08:30-09:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>09:00-09:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>09:30-10:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>10:00-10:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>10:30-11:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>11:00-11:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>11:30-12:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>12:00-12:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>12:30-13:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>13:00-13:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>13:30-14:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>14:00-14:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>14:30-15:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>15:00-15:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>15:30-16:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>16:00-16:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>16:30-17:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>17:00-17:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>17:30-18:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>18:00-18:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>18:30-19:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>19:00-19:30</Name>
+	<Long_Name></Long_Name>
+</Hour>
+<Hour>
+	<Name>19:30-20:00</Name>
+	<Long_Name></Long_Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>ALAN 2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ALAN 21A</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ALAN 22A</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BADM 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BADM 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BADM 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BADM 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BADM 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 27</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 28</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 29</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 30</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 31</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 32</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 33</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 34</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 35</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 36</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 37</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 38</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BEEd 39</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMED 105</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 199</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 200A</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 200B</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 27</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 28</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 29</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BMGT 30</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 100</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 101</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 105</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 106</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 110</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 111</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 115</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 120</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 197</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 198</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BPSY 95</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 110</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 111</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 27</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 28</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 29</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 30</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 31</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 32</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 33</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 34</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 35</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 36</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 37</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 38</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 39</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 40</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEE 41</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 27</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 28</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 29</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 30</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 31</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 32</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 33</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 34</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 35</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 36</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 37</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 38</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 39</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSEM 40</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 100</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 111</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 121</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 131</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 141</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 151</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 161</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 199A</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 199B</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 27</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 28</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 29</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 70</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 75</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 80</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 85</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSHM 90</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSTM 141</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSTM 199 B</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>COSC 50</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>CvSU 101</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 50</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 55</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 60</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DCIT 65</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ECON 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ECON 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDFS 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDFS 22</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDFS 23</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 197</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 198</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 50</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 55</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 60</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 65</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 70</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 75</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 80</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 85</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 90</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>EDUC 95</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ELAN 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ELEC</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>FITT 1</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>FITT 2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>FITT 3</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>FITT 4</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 01</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 02</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 03</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 04</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 05</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 06</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 07</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 08</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 09</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 10</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 11</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 12</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 13</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 14</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>GNED 15</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>INSY 55</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 100</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 101</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 105</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 106</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 110</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 111</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 116</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 199</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 200A</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 200B</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 50</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 55</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 60</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 65</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 70</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 75</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 80</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 85</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 90</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>ITEC 95</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 101</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 106</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 111</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 116</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 50</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 55</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 60</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 65</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 70</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 75</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 80</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>MKTG 85</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>STAT 2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TAXN 21</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 101</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 111</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 121</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 131</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 141</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 151</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 161</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 199A</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 199B</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 24</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 25</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 26</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 27</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 28</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 70</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 75</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 80</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 85</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 90</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>TOUR 95</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+<Activity_Tag>
+	<Name>Lectures</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Printable>true</Printable>
+	<Comments></Comments>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>Laboratory</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Printable>true</Printable>
+	<Comments></Comments>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>Practicum/OJT</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Printable>true</Printable>
+	<Comments></Comments>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>Capstone</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Printable>true</Printable>
+	<Comments></Comments>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>PE</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Printable>true</Printable>
+	<Comments></Comments>
+</Activity_Tag>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Alex Feranil Jr</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Anacleto Marcelino</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Angel A. Duales</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Arjon C. Veluz</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Atty. Charmaine A. Gabelo</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Audrey Gerard D. Advincula</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Audreyson H. Borilla</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Charmaine T. Banag</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Christian Joy G. Sebastian</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Crisostomo Sibulo</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Debbie Rose B. Fabian</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Efren G. Peñaflorida</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Estelita A. Villa</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gerry Mae T. Silvero</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Isaiah Jacob O. Carolino</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ivern S. Bautista</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jackielyn Caballero</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FACULTY 1</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Janoos Paraso Rapanut</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jenilyn D. Tangalin</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jepre M. Dinglasan</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jessica Avon Quezada</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jholie Anne D. Lopez</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jhon Michael R. Alfon</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>John Daniel V. Cap-atan</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>John Paul De Torres</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Johnny Rick S. Apellanes</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Joneil Baculod</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Joyce Erika S. Senaris</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Julius Sarreal</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kristina D. Son</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ma. Woodelyn Reyes</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marlou M. Tangalin</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Martin S. Barbarona</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mary Joy Angelique R. Mojica</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mary Rose E. Elamparo</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Melona I. Saquin</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Micah Sanchez</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mildred A. Sebastian</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Muhaimin P. Macapundag</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Neil Patrick De Guzman</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Quincy Mae M. Monterey</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Regielyn L. Chavez</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rein R. Ortigosa</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Richelle Rozol</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ritch M. Banate</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ronnel Jul Sebastian</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ronnie C. Daef</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ryan Jay O. Culvera</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sharmaine M. Banate</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sheena M. Banate</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tita C. Lopez</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1st Year</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+	<Group>
+		<Name>BEE 1</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BEE 1-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BEE 1-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSBA 1</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSBA 1-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSBA 1-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSBA 1-3</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEE 1</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-E 1-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSE-E 1-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEM 1</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSEM 1-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSIT 1</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSIT 1-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 1-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 1-3</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 1-4</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>2nd Year</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+	<Group>
+		<Name>BEE 2</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BEE 2-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSBA 2</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSBA 2-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSBA 2-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSBA 2-3</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEE 2</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-E 2-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEM 2</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-M 2-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSIT 2</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSIT 2-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 2-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>3rd Year</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+	<Group>
+		<Name>BEE 3</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BEE 3-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSBA 3</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSBA 3-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSBA 3-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEE 3</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-E 3-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEM 3</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-M 3-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSIT 3</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSIT 3-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 3-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 3-3</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 3-4</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>4th Year</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+	<Group>
+		<Name>BEE 4</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BEE 4-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BEE 4-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSBA 4</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSBA 4-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSBA 4-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEE 4</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-E 4-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSEE 4-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSEM 4</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSE-M 4-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>BSIT 4</Name>
+		<Long_Name></Long_Name>
+		<Code></Code>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>BSIT 4-1</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 4-2</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 4-3</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>BSIT 4-4</Name>
+			<Long_Name></Long_Name>
+			<Code></Code>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>Efren G. Peñaflorida</Teacher>
+	<Subject>BSEM 21</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSEM 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Efren G. Peñaflorida</Teacher>
+	<Subject>BSEM 21</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSEM 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Quincy Mae M. Monterey</Teacher>
+	<Subject>EDUC 50</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>3</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Quincy Mae M. Monterey</Teacher>
+	<Subject>EDUC 50</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>3</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Micah Sanchez</Teacher>
+	<Subject>EDUC 50</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-2</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Micah Sanchez</Teacher>
+	<Subject>EDUC 50</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-2</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>5</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sharmaine M. Banate</Teacher>
+	<Subject>BSEE 30</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>7</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sharmaine M. Banate</Teacher>
+	<Subject>BSEE 30</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>7</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ronnie C. Daef</Teacher>
+	<Subject>BSEM 22</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSEM 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>9</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ronnie C. Daef</Teacher>
+	<Subject>BSEM 22</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSEM 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>10</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ronnel Jul Sebastian</Teacher>
+	<Subject>BEEd 29</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BEE 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ronnel Jul Sebastian</Teacher>
+	<Subject>BEEd 29</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BEE 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sharmaine M. Banate</Teacher>
+	<Subject>BSEE 34</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>13</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sharmaine M. Banate</Teacher>
+	<Subject>BSEE 34</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>13</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sheena M. Banate</Teacher>
+	<Subject>BSEE 35</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sheena M. Banate</Teacher>
+	<Subject>BSEE 35</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jessica Avon Quezada</Teacher>
+	<Subject>BEEd 37</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BEE 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>17</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jessica Avon Quezada</Teacher>
+	<Subject>BEEd 37</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BEE 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>17</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ronnie C. Daef</Teacher>
+	<Subject>BSEM 29</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-M 3-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ronnie C. Daef</Teacher>
+	<Subject>BSEM 29</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-M 3-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sheena M. Banate</Teacher>
+	<Subject>EDUC 70</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>21</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Sheena M. Banate</Teacher>
+	<Subject>EDUC 70</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>21</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Efren G. Peñaflorida</Teacher>
+	<Subject>EDUC 70</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-2</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>23</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Efren G. Peñaflorida</Teacher>
+	<Subject>EDUC 70</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSE-E 1-2</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>23</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mary Joy Angelique R. Mojica</Teacher>
+	<Subject>STAT 2</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSIT 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>25</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mary Joy Angelique R. Mojica</Teacher>
+	<Subject>STAT 2</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSIT 2-1</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>25</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mary Joy Angelique R. Mojica</Teacher>
+	<Subject>STAT 2</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSIT 2-2</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mary Joy Angelique R. Mojica</Teacher>
+	<Subject>STAT 2</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSIT 2-2</Students>
+	<Duration>6</Duration>
+	<Total_Duration>12</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jepre M. Dinglasan</Teacher>
+	<Subject>ITEC 75</Subject>
+	<Activity_Tag>Laboratory</Activity_Tag>
+	<Students>BSIT 2-1</Students>
+	<Duration>8</Duration>
+	<Total_Duration>16</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>29</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jepre M. Dinglasan</Teacher>
+	<Subject>ITEC 75</Subject>
+	<Activity_Tag>Laboratory</Activity_Tag>
+	<Students>BSIT 2-1</Students>
+	<Duration>8</Duration>
+	<Total_Duration>16</Total_Duration>
+	<Id>30</Id>
+	<Activity_Group_Id>29</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jepre M. Dinglasan</Teacher>
+	<Subject>ITEC 75</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSIT 2-1</Students>
+	<Duration>8</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>31</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Audrey Gerard D. Advincula</Teacher>
+	<Subject>ITEC 75</Subject>
+	<Activity_Tag>Lectures</Activity_Tag>
+	<Students>BSIT 2-2</Students>
+	<Duration>8</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>32</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Audrey Gerard D. Advincula</Teacher>
+	<Subject>ITEC 75</Subject>
+	<Activity_Tag>Laboratory</Activity_Tag>
+	<Students>BSIT 2-2</Students>
+	<Duration>8</Duration>
+	<Total_Duration>16</Total_Duration>
+	<Id>33</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Audrey Gerard D. Advincula</Teacher>
+	<Subject>ITEC 75</Subject>
+	<Activity_Tag>Laboratory</Activity_Tag>
+	<Students>BSIT 2-2</Students>
+	<Duration>8</Duration>
+	<Total_Duration>16</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>Comlab 1</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Comlab 2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Edu Tech Room</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>MP Room 1</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>MP Room 2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>PC 1</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>PC 2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>PC 3</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Room 101</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Room 102</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Room 103</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>TBA</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>true</Virtual>
+	<Number_of_Sets_of_Real_Rooms>2</Number_of_Sets_of_Real_Rooms>
+	<Set_of_Real_Rooms>
+		<Number_of_Real_Rooms>1</Number_of_Real_Rooms>
+		<Real_Room>TBA2</Real_Room>
+	</Set_of_Real_Rooms>
+	<Set_of_Real_Rooms>
+		<Number_of_Real_Rooms>1</Number_of_Real_Rooms>
+		<Real_Room>TBA2</Real_Room>
+	</Set_of_Real_Rooms>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>TBA2</Name>
+	<Long_Name></Long_Name>
+	<Code></Code>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>1</Activity_Id>
+	<Activity_Id>2</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>3</Activity_Id>
+	<Activity_Id>4</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>5</Activity_Id>
+	<Activity_Id>6</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>7</Activity_Id>
+	<Activity_Id>8</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>9</Activity_Id>
+	<Activity_Id>10</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>11</Activity_Id>
+	<Activity_Id>12</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>13</Activity_Id>
+	<Activity_Id>14</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>15</Activity_Id>
+	<Activity_Id>16</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>17</Activity_Id>
+	<Activity_Id>18</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>19</Activity_Id>
+	<Activity_Id>20</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>21</Activity_Id>
+	<Activity_Id>22</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>23</Activity_Id>
+	<Activity_Id>24</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>25</Activity_Id>
+	<Activity_Id>26</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>27</Activity_Id>
+	<Activity_Id>28</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>29</Activity_Id>
+	<Activity_Id>30</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>33</Activity_Id>
+	<Activity_Id>34</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeachersMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxDaysPerWeek>
+<ConstraintStudentsMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxDaysPerWeek>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mary Joy Angelique R. Mojica</Teacher>
+	<Number_of_Not_Available_Times>52</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>07:00-7:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>07:30-08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>08:00-08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>08:30-09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00-09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:30-11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00-11:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:30-12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00-12:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:30-13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00-13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:30-14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00-14:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:30-15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00-15:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:30-16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00-16:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:30-17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>17:00-17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>17:30-18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>18:00-18:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>18:30-19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>19:00-19:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>19:30-20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>07:00-7:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>07:30-08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>08:00-08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>08:30-09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00-09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:30-11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00-11:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:30-12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00-12:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:30-13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00-13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:30-14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00-14:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:30-15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00-15:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:30-16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00-16:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:30-17:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>17:00-17:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>17:30-18:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>18:00-18:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>18:30-19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>19:00-19:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>19:30-20:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:00-13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>13:00-13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:30-11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:30-14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>6</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>17:00-17:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>17:00-17:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>07:00-7:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:00-13:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00-09:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00-09:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:00-14:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>14:00-14:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:30-12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>16:00-16:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:30-15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:30-12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>07:00-7:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00-09:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>07:00-7:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>08:30-09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>14:30-15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>16:30-17:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>30</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:00-14:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>31</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:00-14:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>32</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>08:30-09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>33</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>08:30-09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+</Space_Constraints_List>
+
+<Timetable_Generation_Options_List>
+</Timetable_Generation_Options_List>
+
+</fet>
